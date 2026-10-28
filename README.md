@@ -1,12 +1,36 @@
-<h1 align="center">Hi 👋, I'm shams</h1>
-<h3 align="center">software student at UTM</h3>
+<h1 align="center">Hi, I'm Shams 👋</h1>
 
-- 📫 How to reach me **shamsalshabrawy@gmail.com**
+<h3 align="center">
+  Software Engineering Student at UTM | Exploring AI in Healthcare
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Interested in Machine Learning, Medical AI, and building technology
+  that can make a positive impact on people's lives.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+
+- 🎓 Fourth-year Software Engineering student at Universiti Teknologi Malaysia (UTM)
+- 🧠 Exploring AI applications in healthcare and medical imaging
+- 🛠️ Currently working on CLINK, a smart outpatient triage and scheduling system
+- 📚 Studying AI to strengthen my machine learning skills
+- 📫 Reach me at: **shamsalshabrawy@gmail.com**
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shams-alshabrawy-33b958280/)
